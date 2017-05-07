@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.15",
+	"EngineAssociation": "{1273B632-46CA-C99D-AC93-D782CB0608E8}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TRAX",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
